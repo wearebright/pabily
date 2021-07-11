@@ -1,0 +1,5 @@
+Upload the "upload-this-to-upgrade-to-2.6.1.zip" file to your server if you want to update Foodomaa to v2.6.1
+
+If you have purchased an Extedned License, please create a ticket on our help desk and provide your purchase code.
+
+https://support.stackcanyon.com
